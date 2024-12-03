@@ -1,4 +1,4 @@
-# Welcome to my Buerger Website with ChatBot(Botpress)
+# Welcome to my Burger Website with ChatBot(Botpress)
 
 You can try my chat bot here: https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/27/15/20241127155148-63FYX2MF.json
 
